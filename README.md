@@ -53,30 +53,29 @@ requirements.txt - to install all the packages
 
 ```
 Github
---> Workflow
---> ---> YML files
+||--> Workflow
+||--> ---> YML files
 
 Notebook
---> Research.ipynb
+||--> Research.ipynb
 
 src
---> Dimond Price Prediction folder
---> ---> Components
---> ---> ---> Data Ingestion.py
---> ---> ---> Preprocessing.py
---> ---> ---> Model_training.py
+||--> Dimond Price Prediction folder
+||--> ---> Components
+||--> ---> ---> Data Ingestion.py
+||--> ---> ---> Preprocessing.py
+||--> ---> ---> Model_training.py
 
---> ---> Pipeline
---> ---> ---> Training.py
---> ---> ---> Prediction.py
+||--> ---> Pipeline
+||--> ---> ---> Training.py
+||--> ---> ---> Prediction.py
 
---> ---> exceptions.py
---> ---> Logger.py
---> ---> Utils.py
+||--> ---> exceptions.py
+||--> ---> Logger.py
+||--> ---> Utils.py
 
-requirements.txt
-setup.py
-
+||requirements.txt
+||setup.py
 
 
 ```
