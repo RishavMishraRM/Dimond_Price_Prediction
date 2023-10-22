@@ -89,3 +89,45 @@ python setup.py install
 another way
 pip install -r requirements.txt
 ```
+
+
+
+```console
+$ tree
+.
+│
+├ .github
+│    └── Workflow
+│	   └──  YML Files
+│
+├── Notebook
+│   └──  Research.ipynb
+│
+├── SRC
+│    ├── Dimond Price Prediction
+│    │         ├── Components
+│    │         │     ├── __init__.py
+│    │         │     ├── data_transformation.py
+│    │         │     ├── data_ingestion.py
+│    │         │     └── model_trainer.py
+│    │         │  
+│    │         ├── Components
+│    │         │     ├── __init__.py
+│    │         │     ├── prediction_pipeline.py
+│    │         │     └── training_pipeline.py
+│    │         │  
+│    │         └── Utils
+│    │               └── __init__.py
+│    │
+│    ├── __init__.py
+│    ├── exception.py
+│    └── logger.py   
+├── README.md
+├── .gitignore  
+├── requirements.txt
+├── LICENSE
+├── setup.py
+├── template.py
+├── test.py
+└── init_setup.sh
+```
