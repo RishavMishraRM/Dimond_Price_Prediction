@@ -56,26 +56,26 @@ Github
 ||--> Workflow
 ||--> ---> YML files
 
-Notebook
-||--> Research.ipynb
+||--> Notebook
+||--> --> Research.ipynb
 
-src
-||--> Dimond Price Prediction folder
-||--> ---> Components
-||--> ---> ---> Data Ingestion.py
-||--> ---> ---> Preprocessing.py
-||--> ---> ---> Model_training.py
+||--> src
+||--> --> Dimond Price Prediction folder
+||--> --> ---> Components
+||--> --> ---> ---> Data Ingestion.py
+||--> --> ---> ---> Preprocessing.py
+||--> --> ---> ---> Model_training.py
 
-||--> ---> Pipeline
-||--> ---> ---> Training.py
-||--> ---> ---> Prediction.py
+||--> --> ---> Pipeline
+||--> --> ---> ---> Training.py
+||--> --> ---> ---> Prediction.py
 
-||--> ---> exceptions.py
-||--> ---> Logger.py
-||--> ---> Utils.py
+||--> --> ---> exceptions.py
+||--> --> ---> Logger.py
+||--> --> ---> Utils.py
 
-||requirements.txt
-||setup.py
+||--> requirements.txt
+||--> setup.py
 
 
 ```
