@@ -83,6 +83,9 @@ Github
 .gitkeep - to keep empty folder or files in github
 
 
-
-
-
+### To install local packages
+```
+python setup.py install
+another way
+pip install -r requirements.txt
+```
