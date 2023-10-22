@@ -1,6 +1,6 @@
 # End to End Machine Learning Project
 
-## initialise git first
+## initialize git first
 ```
 git init
 ```
