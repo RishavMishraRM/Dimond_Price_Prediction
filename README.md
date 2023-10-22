@@ -51,35 +51,6 @@ requirements.txt - to install all the packages
 ```
 
 
-```
-Github
-||--> Workflow
-||--> ---> YML files
-||
-||--> Notebook
-||--> --> Research.ipynb
-||
-||--> src
-||--> --> Dimond Price Prediction folder
-||--> --> ---> Components
-||--> --> ---> ---> Data Ingestion.py
-||--> --> ---> ---> Preprocessing.py
-||--> --> ---> ---> Model_training.py
-||
-||--> --> ---> Pipeline
-||--> --> ---> ---> Training.py
-||--> --> ---> ---> Prediction.py
-||
-||--> --> ---> exceptions.py
-||--> --> ---> Logger.py
-||--> --> ---> Utils.py
-||
-||--> requirements.txt
-||--> setup.py
-||
-
-```
-
 .gitkeep - to keep empty folder or files in github
 
 
