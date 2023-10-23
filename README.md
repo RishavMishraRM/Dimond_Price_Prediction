@@ -58,7 +58,7 @@ requirements.txt - to install all the packages
 ```
 python setup.py install
 another way
-pip install -r requirements.txt
+pip install -r requirements.txt & -e in the requirements.txt file
 ```
 
 
