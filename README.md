@@ -63,6 +63,7 @@ pip install -r requirements.txt & -e in the requirements.txt file
 
 Folder Structure
 
+
 ```console
 $ tree
 .
@@ -72,7 +73,9 @@ $ tree
 │	   └──  YML Files
 │
 ├── Notebook
-│   └──  Research.ipynb
+│   ├── Data
+│   ├── Model_Training.ipynb
+│   └── Research.ipynb
 │
 ├── SRC
 │    ├── Dimond Price Prediction
