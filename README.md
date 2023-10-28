@@ -78,7 +78,7 @@ $ tree
 │   └── Research.ipynb
 │
 ├── SRC
-│    ├── Diamond Price Prediction
+│    ├── DiamondPricePrediction
 │    │         ├── Components
 │    │         │     ├── __init__.py
 │    │         │     ├── data_transformation.py
