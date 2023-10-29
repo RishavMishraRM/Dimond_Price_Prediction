@@ -74,7 +74,6 @@ $ tree
 │	   └──  YML Files
 │
 ├── artifacts
-│   ├── model.pkl
 │   ├── preprocessor.pkl
 │   ├── raw.csv
 │   ├── test.csv
