@@ -75,6 +75,7 @@ $ tree
 │
 ├── artifacts
 │   ├── preprocessor.pkl
+│   ├── model.pkl
 │   ├── raw.csv
 │   ├── test.csv
 │   └── train.csv
