@@ -1,7 +1,7 @@
 # End-to-End Machine Learning Project
 
 
-## initializing git with commands
+## initializing git with git commands
 ```
 git init
 ```
