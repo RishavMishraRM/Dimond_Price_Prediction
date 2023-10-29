@@ -1,4 +1,4 @@
-# End to End Machine Learning Project
+# End-to-End Machine Learning Project
 
 ## initializing git
 ```
@@ -9,7 +9,7 @@ git add .
 git add add.txt
 ```
 ```
-git commit -m "this is my first commit"
+git commit -m "This is my first commit"
 ```
 ```
 git pull - to pull code from remote repo
@@ -26,7 +26,7 @@ bash init_setup.sh
 ```
 
 ```
-Pipeline -- Haing all the components in one place
+Pipeline -- Having all the components in one place
 1. Data Ingestion
 2. EDA
 3. FE
@@ -45,23 +45,24 @@ Logger
 ```
 
 ```
-Utils files - having all the common functions
+Utils files - having all the standard functions
 Setup.py file - to install local package
 requirements.txt - to install all the packages
 ```
 
 
-.gitkeep - to keep empty folder or files in github
+.gitkeep - to keep empty folders or files in GitHub
 
 
 ### To install local packages
 ```
 python setup.py install
 another way
-pip install -r requirements.txt & -e in the requirements.txt file
+pip install -r requirements.txt & (-e .) in the requirements.txt file
 ```
 
 Folder Structure
+
 
 ```console
 $ tree
@@ -72,10 +73,12 @@ $ tree
 │	   └──  YML Files
 │
 ├── Notebook
-│   └──  Research.ipynb
+│   ├── Data
+│   ├── Model_Training.ipynb
+│   └── Research.ipynb
 │
 ├── SRC
-│    ├── Dimond Price Prediction
+│    ├── DiamondPricePrediction
 │    │         ├── Components
 │    │         │     ├── __init__.py
 │    │         │     ├── data_transformation.py
