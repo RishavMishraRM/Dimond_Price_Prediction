@@ -80,6 +80,8 @@ $ tree
 │   ├── test.csv
 │   └── train.csv
 │    
+├── logs
+│    
 ├── Notebook
 │   ├── Data
 │   ├── Model_Training.ipynb
@@ -105,7 +107,9 @@ $ tree
 │    ├── __init__.py
 │    ├── exception.py
 │    └── logger.py   
+│
 ├── README.md
+│
 ├── .gitignore  
 ├── requirements.txt
 ├── LICENSE
