@@ -74,6 +74,9 @@ $ tree
 │	   └──  YML Files
 │
 ├── artifacts
+│   ├── raw.csv
+│   ├── test.csv
+│   └── train.csv
 │    
 ├── Notebook
 │   ├── Data
