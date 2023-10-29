@@ -73,6 +73,8 @@ $ tree
 │    └── Workflow
 │	   └──  YML Files
 │
+├── artifacts
+│    
 ├── Notebook
 │   ├── Data
 │   ├── Model_Training.ipynb
