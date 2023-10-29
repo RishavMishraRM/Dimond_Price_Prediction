@@ -75,7 +75,7 @@ $ tree
 ├── Notebook
 │   ├── Data
 │   ├── Model_Training.ipynb
-│   └── Research.ipynb
+│   └── EDA.ipynb
 │
 ├── SRC
 │    ├── DiamondPricePrediction
