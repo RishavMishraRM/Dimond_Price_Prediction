@@ -1,14 +1,15 @@
 """import os
 
-path = "notebooks/research.ipynb"
+path="notebooks/research.ipynb"
 
-dir, file = os.path.split(path)
+dir,file=os.path.split(path)
 
-os.makedirs(dir, exist_ok=True)
+os.makedirs(dir,exist_ok=True)
 
-with open(path, "w") as f:
+with open(path,"w") as f:
     pass"""
-
+    
+    
 from src.DimondPricePrediction.pipelines.prediction_pipeline import CustomData
 
 
