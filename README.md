@@ -71,7 +71,8 @@ $ tree
 │
 ├ .github
 │    └── Workflow
-│	   └──  YML Files
+│          ├── Components
+│	       └──  YML Files
 │
 ├── artifacts
 │   ├── preprocessor.pkl
@@ -109,7 +110,7 @@ $ tree
 │    ├── exception.py
 │    └── logger.py   
 │
-├── Templates
+├── templates
 │   ├── form.html
 │   ├── index.html
 │   └── result.html
