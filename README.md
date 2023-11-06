@@ -108,6 +108,11 @@ $ tree
 │    ├── exception.py
 │    └── logger.py   
 │
+├── Templates
+│   ├── form.html
+│   ├── index.html
+│   └── result.html
+│
 ├── README.md
 │
 ├── Docker
