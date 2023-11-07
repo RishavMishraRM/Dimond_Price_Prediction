@@ -117,7 +117,7 @@ $ tree
 │
 ├── README.md
 │
-├── Docker
+├── Docker File
 │
 ├── .gitignore  
 │
