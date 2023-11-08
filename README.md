@@ -71,7 +71,7 @@ $ tree
 │
 ├ .github
 │    └── Workflow
-│          ├── Components
+│          ├── .gitkeep
 │	       └──  YML Files
 │
 ├── artifacts
@@ -86,29 +86,32 @@ $ tree
 │    
 ├── Notebook
 │   ├── Data
+│   │    └── gemstone.csv(original data)
+│   ├── research.ipynb
 │   ├── Model_Training.ipynb
 │   └── EDA.ipynb
 │
 ├── SRC
-│    ├── DiamondPricePrediction
-│    │         ├── Components
-│    │         │     ├── __init__.py
-│    │         │     ├── data_transformation.py
-│    │         │     ├── data_ingestion.py
-│    │         │     └── model_trainer.py
-│    │         │  
-│    │         ├── Components
-│    │         │     ├── __init__.py
-│    │         │     ├── prediction_pipeline.py
-│    │         │     └── training_pipeline.py
-│    │         │  
-│    │         └── Utils
-│    │               ├── __init__.py
-│    │               └── utils.py
-│    │
-│    ├── __init__.py
-│    ├── exception.py
-│    └── logger.py   
+│    └── DiamondPricePrediction
+│              ├── Components
+│              │     ├── __init__.py
+│              │     ├── data_transformation.py
+│              │     ├── data_ingestion.py
+│              │     └── model_trainer.py
+│              │  
+│              ├── Pipelines
+│              │     ├── __init__.py
+│              │     ├── prediction_pipeline.py
+│              │     └── training_pipeline.py
+│              │  
+│              │── Utils
+│              │     ├── __init__.py
+│              │     └── utils.py
+│              │
+│              ├── __init__.py
+│              ├── exception.py
+│              └── logger.py 
+│  
 │
 ├── templates
 │   ├── form.html
