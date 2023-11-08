@@ -120,7 +120,7 @@ $ tree
 │
 ├── README.md
 │
-├── Docker File
+├── Dockerfile
 │
 ├── .gitignore  
 │
