@@ -56,6 +56,7 @@ requirements.txt - to install all the packages
 
 ```
 1. Used AWS ECR to store the copy of code on AWS Server
+2. Used IAM to create identity and stored secrete keys on github scerete store
 ```
 
 ### To install local packages
