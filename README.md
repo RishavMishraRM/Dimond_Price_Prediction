@@ -54,6 +54,9 @@ requirements.txt - to install all the packages
 
 .gitkeep - to keep empty folders or files in GitHub
 
+```
+1. Used AWS ECR to store the copy of code on AWS Server
+```
 
 ### To install local packages
 ```
