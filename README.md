@@ -63,6 +63,7 @@ another way
 pip install -r requirements.txt & (-e .) in the requirements.txt file
 ```
 
+## AWS Setup
 ```
 1. Used AWS ECR to store the copy of code on AWS Server.
 2. Used IAM to create identity and stored secrete keys on github scerete store.
