@@ -54,11 +54,7 @@ requirements.txt - to install all the packages
 
 .gitkeep - to keep empty folders or files in GitHub
 
-```
-1. Used AWS ECR to store the copy of code on AWS Server.
-2. Used IAM to create identity and stored secrete keys on github scerete store.
-3. Used App Runner to deploy the app on AWS Server.
-```
+
 
 ### To install local packages
 ```
@@ -66,6 +62,13 @@ python setup.py install
 another way
 pip install -r requirements.txt & (-e .) in the requirements.txt file
 ```
+
+```
+1. Used AWS ECR to store the copy of code on AWS Server.
+2. Used IAM to create identity and stored secrete keys on github scerete store.
+3. Used App Runner to deploy the app on AWS Server.
+```
+
 
 Folder Structure
 
