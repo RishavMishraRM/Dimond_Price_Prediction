@@ -70,6 +70,40 @@ pip install -r requirements.txt & (-e .) in the requirements.txt file
 3. Used App Runner to deploy the app on AWS Server.
 ```
 
+## MLflow
+
+[Documentation](https://mlflow.org/docs/latest/index.html)
+
+
+##### local cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/RishavMishraRM/Dimond_Price_Prediction.mlflow \
+MLFLOW_TRACKING_USERNAME=RishavMishraRM \
+MLFLOW_TRACKING_PASSWORD=71e323f07937f6fb81cf857bcb75995b5ceab6f7 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/RishavMishraRM/Dimond_Price_Prediction.mlflow \
+export MLFLOW_TRACKING_USERNAME=RishavMishraRM \
+export MLFLOW_TRACKING_PASSWORD=71e323f07937f6fb81cf857bcb75995b5ceab6f7 \
+
+```
+
+
+### DVC cmd
+- dvc init
+- dvc repro
+- dvc dag
+
+
+
 
 Folder Structure
 
