@@ -99,7 +99,7 @@ export MLFLOW_TRACKING_PASSWORD=71e323f07937f6fb81cf857bcb75995b5ceab6f7 \
 
 ### DVC cmd
 - dvc init
-- dvc repro
+- dvc repro -- to run the pipeline
 - dvc dag
 
 
