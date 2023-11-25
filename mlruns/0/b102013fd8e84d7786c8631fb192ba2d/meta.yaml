@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rishav/Disk/Codes/Dimond_Price_Prediction/mlruns/0/b102013fd8e84d7786c8631fb192ba2d/artifacts
+end_time: 1700896999552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b102013fd8e84d7786c8631fb192ba2d
+run_name: stately-penguin-595
+run_uuid: b102013fd8e84d7786c8631fb192ba2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700896996259
+status: 3
+tags: []
+user_id: Rishav

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rishav/Disk/Codes/Dimond_Price_Prediction/mlruns/0/8f50702a1f01461d964109d110ad7fea/artifacts
+end_time: 1700896863671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f50702a1f01461d964109d110ad7fea
+run_name: peaceful-auk-915
+run_uuid: 8f50702a1f01461d964109d110ad7fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700896859429
+status: 3
+tags: []
+user_id: Rishav

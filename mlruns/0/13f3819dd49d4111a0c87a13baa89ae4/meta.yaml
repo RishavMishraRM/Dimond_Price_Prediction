@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rishav/Disk/Codes/Dimond_Price_Prediction/mlruns/0/13f3819dd49d4111a0c87a13baa89ae4/artifacts
+end_time: 1700896980377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13f3819dd49d4111a0c87a13baa89ae4
+run_name: intelligent-ram-111
+run_uuid: 13f3819dd49d4111a0c87a13baa89ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700896976964
+status: 3
+tags: []
+user_id: Rishav
